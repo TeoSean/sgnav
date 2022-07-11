@@ -108,4 +108,3 @@ for i in range(len(rt)-1):
     print(f'{rt[i]} {similarities} >', end=' ')
 
 print(rt[-1:][0])
-    
